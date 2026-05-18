@@ -1,67 +1,242 @@
-# Hey!! Great to see you here! 
+# Hi there, I'm Gaurav Raj 👋
 
-* 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
+<div align="center">
 
-* 💻 Tech enthusiast, problem solving & explore new technology.
-* 🌈 Software Developer, Python Developer, Django Developer and ML/DL Enthusiast.
-* 🌈 Learning Machine Learning and Deep Learning for Data Scentist role.
-* 💡 Always open to collaborating on projects and innovative ideas. 
-* 🔥 Achieved Gold Badge(5🌟) in Problem Solving on ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) https://www.hackerrank.com/GauravRaj980
-* 🔥 Solved 500+ Data Structures and Algorithms questions on GeeksForGeeks and ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/gaurav_raj980/ 
----
+### Software Engineer | Backend Engineer | Distributed Systems Enthusiast
 
-## 🛰 Tech Stack
+Building scalable backend systems, developer platforms, distributed architectures, and AI-powered applications using Python, FastAPI, Django, Celery, Redis, and Cloud Technologies.
 
-### ⌨ Languages
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/%20-SQL-green)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-### 🧩 Frameworks & Libraries
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 🧾 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠 Tools & Platforms
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-
-## 📈 Stats
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=9771-raj&show_icons=true&hide_border=true&theme=radical" />
-
-  <br>
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=9771-raj&hide_border=true&theme=radical" />
-
-
-## 🔝 Most used languages
-
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9771-raj&layout=compact&hide_border=true&theme=radical" />
+</div>
 
 ---
-## 📊  Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=9771-raj&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+# 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering from **Indian Institute of Information Technology Vadodara**
+- 💻 Software Engineer with **3+ years of experience** building scalable backend architectures and internal developer platforms
+- ⚡ Specialized in:
+  - Backend Engineering
+  - Distributed Systems
+  - Async Programming
+  - Real-Time Systems
+  - AI-powered Applications
+- 🧠 Passionate about building:
+  - High-concurrency systems
+  - Real-time collaboration platforms
+  - NLP & LLM applications
+  - Developer tooling ecosystems
+- 🔥 Strong problem-solving background with 500+ DSA problems solved
+- 🌱 Currently exploring:
+  - Kafka-based architectures
+  - LLM infrastructure
+  - AI agents
+  - Event-driven systems
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineer — Cognam Technologies
+📍 Jul 2023 – Present
+
+- Architected and developed core features for internal CLI and Hub ecosystems
+- Built scalable backend systems using **Django, FastAPI, Celery, Redis, and PostgreSQL**
+- Designed asynchronous workflows for high-concurrency task scheduling
+- Improved platform latency by **44%** using:
+  - Database optimization
+  - Custom caching layers
+  - CDN delivery via AWS CloudFront
+- Engineered cross-platform build pipelines for Linux, macOS, and Windows
+- Led migration from Python 3.5 → 3.11 enabling modern async workflows
+- Worked on:
+  - OAuth2/OIDC
+  - REST APIs
+  - Event-driven architecture
+  - WebSocket-based systems
+  - CI/CD automation
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Achieved **Gold Badge (5⭐)** in Problem Solving on HackerRank  
+  🔗 https://www.hackerrank.com/GauravRaj980
+
+- 🧩 Solved **500+ DSA problems** across LeetCode & HackerRank  
+  🔗 https://leetcode.com/gaurav_raj980/
+
+- 🚀 Active maintainer of public developer tools & PyPI packages
+
+- ⚡ Recognized for delivering scalable product-driven backend functionalities
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,bash,mysql" />
+</p>
+
+- Python
+- Java
+- JavaScript
+- C
+- SQL
+- Shell Scripting
+
+---
+
+# ⚙️ Backend & Distributed Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,docker,redis" />
+</p>
+
+### Backend Engineering
+- Django
+- FastAPI
+- Django REST Framework
+- RESTful APIs
+- Pydantic
+- OAuth2/JWT Authentication
+
+### Distributed Systems
+- Celery
+- Redis
+- WebSockets
+- Async Programming
+- Event-Driven Architecture
+- Microservices
+
+---
+
+# ☁️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws" />
+</p>
+
+- Docker
+- Linux
+- GitHub Actions
+- CI/CD Pipelines
+- AWS CloudFront & S3
+- uWSGI
+- Webpack
+- PyPI Deployment
+
+---
+
+# 🗄 Databases & Cache
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+- PostgreSQL
+- MySQL
+- Redis
+
+---
+
+# 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Machine Learning
+- NLP
+- Scikit-Learn
+- Pandas
+- NumPy
+- NLTK
+- Matplotlib
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Real-Time Distributed Messaging Platform
+
+- Built scalable FastAPI messaging infrastructure using:
+  - WebSockets
+  - Redis Pub/Sub
+  - JWT Authentication
+- Implemented heartbeat-based presence tracking
+- Designed secure refresh-token rotation workflow
+
+---
+
+## 🔹 Automated ML Resume Ranking Engine
+
+- Developed Django-based ML pipeline for semantic resume matching
+- Used:
+  - CountVectorizer
+  - Cosine Similarity
+  - NLP-based ranking
+- Built scalable bulk-processing workflows and analytics dashboard
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=9771-raj&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=9771-raj&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9771-raj&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📉 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9771-raj&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- Scalable Backend Architecture
+- Distributed Systems
+- Async Python
+- LLM Engineering
+- AI Infrastructure
+- Real-Time Systems
+- Event-Driven Architectures
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/gauravraj980
+- 🧠 LeetCode: https://leetcode.com/gaurav_raj980/
+- 🏆 HackerRank: https://www.hackerrank.com/GauravRaj980
+- 💻 GitHub: https://github.com/GauravRaj98
+- 📧 Email: gksagar260@gmail.com
+
+---
+
+<div align="center">
+
+### “Build systems that scale, automate what repeats, and optimize what matters.”
+
+</div>
