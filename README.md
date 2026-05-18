@@ -2,241 +2,91 @@
 
 <div align="center">
 
-### Software Engineer | Backend Engineer | Distributed Systems Enthusiast
+### **Software Engineer | Distributed Systems & Backend Infrastructure**
+Building fault-tolerant backend architectures, developer tooling, and high-concurrency systems.
 
-Building scalable backend systems, developer platforms, distributed architectures, and AI-powered applications using Python, FastAPI, Django, Celery, Redis, and Cloud Technologies.
-
-</div>
-
----
-
-# 🚀 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering from **Indian Institute of Information Technology Vadodara**
-- 💻 Software Engineer with **3+ years of experience** building scalable backend architectures and internal developer platforms
-- ⚡ Specialized in:
-  - Backend Engineering
-  - Distributed Systems
-  - Async Programming
-  - Real-Time Systems
-  - AI-powered Applications
-- 🧠 Passionate about building:
-  - High-concurrency systems
-  - Real-time collaboration platforms
-  - NLP & LLM applications
-  - Developer tooling ecosystems
-- 🔥 Strong problem-solving background with 500+ DSA problems solved
-- 🌱 Currently exploring:
-  - Kafka-based architectures
-  - LLM infrastructure
-  - AI agents
-  - Event-driven systems
-
----
-
-# 💼 Professional Experience
-
-## Software Engineer — Cognam Technologies
-📍 Jul 2023 – Present
-
-- Architected and developed core features for internal CLI and Hub ecosystems
-- Built scalable backend systems using **Django, FastAPI, Celery, Redis, and PostgreSQL**
-- Designed asynchronous workflows for high-concurrency task scheduling
-- Improved platform latency by **44%** using:
-  - Database optimization
-  - Custom caching layers
-  - CDN delivery via AWS CloudFront
-- Engineered cross-platform build pipelines for Linux, macOS, and Windows
-- Led migration from Python 3.5 → 3.11 enabling modern async workflows
-- Worked on:
-  - OAuth2/OIDC
-  - REST APIs
-  - Event-driven architecture
-  - WebSocket-based systems
-  - CI/CD automation
-
----
-
-# 🏆 Achievements
-
-- 🥇 Achieved **Gold Badge (5⭐)** in Problem Solving on HackerRank  
-  🔗 https://www.hackerrank.com/GauravRaj980
-
-- 🧩 Solved **500+ DSA problems** across LeetCode & HackerRank  
-  🔗 https://leetcode.com/gaurav_raj980/
-
-- 🚀 Active maintainer of public developer tools & PyPI packages
-
-- ⚡ Recognized for delivering scalable product-driven backend functionalities
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,bash,mysql" />
-</p>
-
-- Python
-- Java
-- JavaScript
-- C
-- SQL
-- Shell Scripting
-
----
-
-# ⚙️ Backend & Distributed Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,docker,redis" />
-</p>
-
-### Backend Engineering
-- Django
-- FastAPI
-- Django REST Framework
-- RESTful APIs
-- Pydantic
-- OAuth2/JWT Authentication
-
-### Distributed Systems
-- Celery
-- Redis
-- WebSockets
-- Async Programming
-- Event-Driven Architecture
-- Microservices
-
----
-
-# ☁️ DevOps & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws" />
-</p>
-
-- Docker
-- Linux
-- GitHub Actions
-- CI/CD Pipelines
-- AWS CloudFront & S3
-- uWSGI
-- Webpack
-- PyPI Deployment
-
----
-
-# 🗄 Databases & Cache
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-- PostgreSQL
-- MySQL
-- Redis
-
----
-
-# 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-- Machine Learning
-- NLP
-- Scikit-Learn
-- Pandas
-- NumPy
-- NLTK
-- Matplotlib
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Real-Time Distributed Messaging Platform
-
-- Built scalable FastAPI messaging infrastructure using:
-  - WebSockets
-  - Redis Pub/Sub
-  - JWT Authentication
-- Implemented heartbeat-based presence tracking
-- Designed secure refresh-token rotation workflow
-
----
-
-## 🔹 Automated ML Resume Ranking Engine
-
-- Developed Django-based ML pipeline for semantic resume matching
-- Used:
-  - CountVectorizer
-  - Cosine Similarity
-  - NLP-based ranking
-- Built scalable bulk-processing workflows and analytics dashboard
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=9771-raj&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=9771-raj&hide_border=true&theme=tokyonight" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravraj980)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gaurav_raj980/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gksagar260@gmail.com)
 
 </div>
 
 ---
 
-# 📊 Most Used Languages
+## ⚡ Executive Summary
+
+- 🎓 **Academic Background:** B.Tech in Computer Science & Engineering from **Indian Institute of Information Technology Vadodara**.
+- 💻 **Core Expertise:** **3+ years of professional experience** architecting high-throughput backend services, asynchronous workflows, and internal developer platforms (IDPs).
+- 🧠 **Problem Solving:** Strong algorithmic foundation with **500+ LeetCode & HackerRank problems solved** (HackerRank 5⭐ Gold Badge in Problem Solving).
+- 🌱 **Current R&D Focus:** Stream processing infrastructures (Kafka), event-driven microservices, and LLM orchestration/AI agent platforms.
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer** — *Cognam Technologies*
+*📅 Jul 2023 – Present | 📍 Remote/Hybrid*
+
+- **Latency Optimization:** Engineered a custom caching hierarchy and optimized SQL query execution paths alongside AWS CloudFront CDN distribution, reducing overall platform latency by **44%**.
+- **System Architecture:** Designed and built the core engine for internal CLI tools and central Hub ecosystems handling high-concurrency background processing using **FastAPI, Django, Celery, and Redis**.
+- **Infrastructure Modernization:** Successfully spearheaded a legacy codebase migration from **Python 3.5 to 3.11**, unlocking modern native async capabilities and reducing memory consumption across multi-threaded services.
+- **Cross-Platform Engineering:** Authored unified, cross-platform build pipelines supporting isolated compilation for Linux, macOS, and Windows environments via CI/CD pipelines.
+- **Identity & Security:** Implemented robust federated authentication protocols including OAuth2 and OpenID Connect (OIDC), alongside secure JWT token rotation mechanics.
+
+---
+
+## 🛠 Technical Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,c,bash" alt="Languages" /> |
+| **Backend & Distributed Systems** | <img src="https://skillicons.dev/icons?i=django,fastapi,redis" /> <br> *Celery, WebSockets, Asyncio, Event-Driven Architectures* |
+| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases" /> |
+| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" alt="DevOps" /> <br> *GitHub Actions, CI/CD, AWS CloudFront & S3, PyPI Maintenance* |
+| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI/ML" /> ![numpy](https://www.readmecodegen.com/api/social-icon?name=numpy) ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&animation=rainbow&link=) <br> *Scikit-Learn, Pandas, NumPy, NLP (NLTK), Vector Similarities* |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Real-Time Distributed Messaging Engine
+*FastAPI, WebSockets, Redis Pub/Sub, JWT*
+- Built a highly-scalable chat infrastructure using **Redis Pub/Sub** to manage inter-process state across horizontally scaled container replicas.
+- Implemented an aggressive heartbeat-based connection-pooling system to handle stateless presence tracking with minimal CPU overhead.
+
+### 🔹 Automated ML Resume Ranking Engine
+*Django, NLP, Scikit-Learn, Text Mining*
+- Built an automated machine learning parsing pipeline utilizing custom NLP tokenizers and text vectorization matching mechanics.
+- Implemented asynchronous batch processing for multi-tenant resume ingestion, generating semantic matching scores against production job requisitions using Cosine Similarity metrics.
+
+---
+
+## 📊 Analytics & Metrics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=9771-raj&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Gaurav's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=9771-raj&hide_border=true&theme=tokyonight" alt="Gaurav's Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9771-raj&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=9771-raj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
 
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9771-raj&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
-
-# 📉 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9771-raj&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-- Scalable Backend Architecture
-- Distributed Systems
-- Async Python
-- LLM Engineering
-- AI Infrastructure
-- Real-Time Systems
-- Event-Driven Architectures
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/gauravraj980
-- 🧠 LeetCode: https://leetcode.com/gaurav_raj980/
-- 🏆 HackerRank: https://www.hackerrank.com/GauravRaj980
-- 💻 GitHub: https://github.com/GauravRaj98
-- 📧 Email: gksagar260@gmail.com
-
----
-
-<div align="center">
-
-### “Build systems that scale, automate what repeats, and optimize what matters.”
+### 💡 Engineering Creed
+*“Build systems that scale horizontally, automate what repeats endlessly, and optimize bottlenecks systematically.”*
 
 </div>
